@@ -1,10 +1,10 @@
 <h1 align="center">Vcuti чат-бот</h1>
-Компактный и простой чат-бот ВКонтакте для игры на VkCoin
+Компактный и простой чат-бот ВКонтакте на библиотеке VKBottle для игры на VkCoin
 
 ## Установка
 Устанавливаем необходимые библиотеки:
 ```sh
-pip install https://github.com/timoniq/vkbottle/archive/master.zip
+pip install vkbottle
 pip install ast
 pip install vkcoin
 ```
